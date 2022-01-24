@@ -99,7 +99,7 @@ plugins {
 ////                       # available:"3.6"
 ////                       # available:"3.6.1"
    // See https://jmfayard.github.io/refreshVersions
-   id("de.fayard.refreshVersions") version "0.10.0"
+   id("de.fayard.refreshVersions") version "0.40.0"
 }
 
 gradleEnterprise {
