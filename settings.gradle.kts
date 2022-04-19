@@ -94,7 +94,7 @@ include("kotest-tests:kotest-tests-native")
 include("kotest-bom")
 
 plugins {
-   id("com.gradle.enterprise") version "3.5.1"
+   id("com.gradle.enterprise") version "3.10"
 ////                       # available:"3.5.2"
 ////                       # available:"3.6"
 ////                       # available:"3.6.1"
